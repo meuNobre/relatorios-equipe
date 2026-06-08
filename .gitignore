@@ -1,0 +1,10 @@
+node_modules/
+.env
+*.log
+bot/data/*.sqlite
+bot/data/*.sqlite-*
+bot/data/reports/*.png
+__pycache__/
+*.pyc
+.venv/
+venv/
